@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AceSavaid
+- 👋 Hello, I am Alannis but you can call me Ace.
 - 👀 I’m interested in game development and digital art.
-- 🌱 I’m currently learning C, C# and HTML
+- 🌱 I’m currently learning C, C++ and C#
 - 💞️ I’m looking to collaborate on video games.
 
 <!---
