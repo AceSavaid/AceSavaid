@@ -4,7 +4,7 @@ I’m currently learning C, C++ and C#.
 I currently am working in Unity. 
 Im interested in meeting new people and friends to work with.  
 
-** Roles in game development 
+**  Roles in game development 
 - Programmer
 - Pixel Artist and Animator 
 - Art Director
