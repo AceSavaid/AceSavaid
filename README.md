@@ -10,6 +10,11 @@ Roles in game development
 - Art Director
 - Project Manager
 
+
+
+![AceSavaid Github Stats](https://github-readme-stats.vercel.app/api?username=AceSavaidv&show_icons=true&include_all_commits=true&theme=radical)
+
+![AceSavaid Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AceSavaid&layout=compact&theme=radical)
 <!---
 AceSavaid/AceSavaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
