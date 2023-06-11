@@ -1,13 +1,14 @@
 Hello, My name is Alannis Davis but you can call me Ace.  
 I’m interested in game development and digital art.  
-I’m currently learning C, C++ and C#.  
-I currently am working in Unity. 
-Im interested in meeting new people and friends to work with.  
+My current main programming languages are C, C++ and C# but I use HTML, JavaScript and Markdown for slight website design and formating as well.  
+I currently am working in Unity and Unreal Engine 5.  
+I'm interested in networking and building new connections.  I also am looking for a parttime or internship job in software or game development.   
 
 Roles in game development 
-- Programmer
-- Pixel Artist and Animator 
-- Art Director
+- Gameplay Programmer
+- UI Programmer
+- Graphic Programmer
+- Systems Programmer
 - Project Manager
 
 
