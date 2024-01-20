@@ -11,7 +11,8 @@ Roles in game development
 - Systems Programmer
 - Project Manager
 
-<img src="https://myreadme.vercel.app/api/embed/AceSavaid?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AceSavaid&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 <!---
 AceSavaid/AceSavaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
