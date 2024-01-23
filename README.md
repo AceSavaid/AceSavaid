@@ -1,8 +1,9 @@
-Hello, My name is Alannis Davis but you can call me Ace.  
-I’m interested in game development and digital art.  
-My current main programming languages are C++ and C# but I use HTML, JavaScript and Markdown for slight website design and formatting as well.  
+Hello, I am Alannis Davis but I also go by Ace Savaid online. 
+I’m interested in game development and programming.  
+My current main programming languages are C++ and C# but I also have experience working in R and Javascript.  
 I am currently working in Unity and Unreal Engine 5 for various projects and prototypes.  
-I'm interested in networking and building new connections.  I also am looking for a parttime or internship job in software or game development.   
+I'm interested in networking and building new connections.  
+I am also looking for an internship in software development or game development while in University as well as a permanent job after my studies are completed.   
 
 Roles in game development 
 - Gameplay Programmer
